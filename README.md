@@ -203,5 +203,3 @@ Code is in the `samples/nucleus` directory.
 
 ### [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn): Convert satellite imagery to maps for use by humanitarian organisations.
 ![Mapping Challenge](assets/mapping_challenge.png)
-
-
